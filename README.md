@@ -1,5 +1,4 @@
 # odin-recipes
-# 8/3/22
 First project done! A little janky, but I'm excited to see where this takes me. 
 Recipe credits here: 
 - https://www.allrecipes.com/recipe/21528/pesto-pizza/

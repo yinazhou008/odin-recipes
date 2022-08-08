@@ -1,8 +1,22 @@
 body {
     background-color: rgb(255,102,204,0.6);
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+}
+
+div {
+    text-align: center;
 }
 
 img {
     width: 300px;
     height: auto;
+}
+
+ul.main {
+    text-align: center;
 }
